@@ -20,7 +20,7 @@
  <div style="display: inline_block">
  <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
  <div style="display: inline_block">
- <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-top: 10px;" />
+ <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-top: 50px;" />
  <div style="display: inline_block">
 <br>
 <br>
