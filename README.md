@@ -20,11 +20,7 @@
  <div style="display: inline_block">
  <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
  <div style="display: inline_block">
- <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-top: 50px;" />
+ <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  <div style="display: inline_block">
-<br>
-<br>
-<br>  
- 
-
+ <div style="display: inline_block">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
