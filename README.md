@@ -26,7 +26,7 @@
  <div style="display: inline_block">
  <img align="left" alt="css" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
  <div style="display: inline_block">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=blue-green)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=blue-green)
 
 
 
