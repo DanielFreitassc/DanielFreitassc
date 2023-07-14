@@ -25,8 +25,6 @@
  <div style="display: inline_block">
  <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  <div style="display: inline_block">
- <img align="left" alt="css" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
- <div style="display: inline_block">
 <br>
 <br>
 <br>  
