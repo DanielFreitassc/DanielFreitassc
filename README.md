@@ -7,6 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
 <div style="display: inline_block">
  <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <div style="display: inline_block">
@@ -27,7 +28,8 @@
  <img align="left" alt="css" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
  <div style="display: inline_block">
 <br>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
+<br>
+<br>  
+ 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
