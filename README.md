@@ -3,9 +3,6 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfBto-R6bb9n-Q_0-CUoz8g)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielprojetosps?igshid=NzMyMjgxZWIzNw==)
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
 <div style="display: inline_block">
