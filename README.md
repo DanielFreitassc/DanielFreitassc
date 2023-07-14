@@ -6,12 +6,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
 
- <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="css" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right: 1px;"/>
- <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-right: 1px;"/>
- <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 1px;" />
+ <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img align="left" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img align="left" alt="css" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+ <img align="left" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
