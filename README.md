@@ -26,7 +26,8 @@
  <div style="display: inline_block">
  <img align="left" alt="css" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
  <div style="display: inline_block">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=blue-green)
 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=blue-green)
 
