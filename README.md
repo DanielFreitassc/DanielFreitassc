@@ -7,7 +7,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
-### Estou estudando as seguintes tecnologias
 <div style="display: inline_block">
  <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <div style="display: inline_block">
@@ -17,5 +16,17 @@
   <div style="display: inline_block">
  <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
  <div style="display: inline_block">
- 
+  <img align="left" alt="css" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+ <div style="display: inline_block">
+<img align="left" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <div style="display: inline_block">
+ <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+ <div style="display: inline_block">
+ <img align="left" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ <div style="display: inline_block">
+ <img align="left" alt="css" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+ <div style="display: inline_block">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=blue-green)
+
+
 
