@@ -20,6 +20,6 @@
   </p>
 
  
-<p align="center"><a href="https://github.com/DanielFreitassc"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
+
  
 <p align="left"> <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="danielfreitassc" /> </p>
