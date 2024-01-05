@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
  <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
  <img align="left" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
  <img align="left" alt="css" src="https://img.shields.io/badge/-SpringBoot-03d19d?style=for-the-badge&logo=SpringBoot5&logoColor=green"/>
  <img align="left" alt="css" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
