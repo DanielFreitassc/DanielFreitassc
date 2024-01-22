@@ -16,7 +16,7 @@
       <h3 align="center"><strong>Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/DanielFreitassc">
-          <img src="https://github-readme-stats.vercel.app/api?username=DanielFreitassc&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img src="s" alt="GitHub Stats" />
         </a>
       </p>
       <p align="center">
@@ -81,7 +81,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
 
-
- 
 
  
