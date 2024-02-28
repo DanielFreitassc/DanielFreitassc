@@ -27,4 +27,6 @@
 
 Certificações:
 
-[![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url)
+[![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url) [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/094c1501-777e-407f-9578-4ec7dab4a79a) [![rocketbagde (2)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/aeb6dcb2-3371-46f9-9eac-7bdc3a2dfe62)
+
+
