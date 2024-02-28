@@ -25,6 +25,6 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
 
- 
+Certificações:
 
 [![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url)
