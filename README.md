@@ -32,3 +32,4 @@ Certificações:
 # Projetos
 ## [Clone Mercado Livre](https://react-mercado-livre-nine.vercel.app/)
 ## [Lista de Telefônica](https://lista-telefonica-react-and-spring.vercel.app/) 
+
