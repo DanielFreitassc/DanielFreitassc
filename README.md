@@ -33,3 +33,4 @@ Certificações:
 ## [Clone Mercado Livre](https://react-mercado-livre-nine.vercel.app/)
 ## [Lista de Telefônica](https://lista-telefonica-react-and-spring.vercel.app/) 
 ## [Todo List](https://danielfreitassc.github.io/TodoListReact/)
+
