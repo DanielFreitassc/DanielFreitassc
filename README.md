@@ -37,4 +37,3 @@ Certificações:
 ## [Agregador de Links](https://danielfreitassc.github.io/agregador_de_links/)
 ## [Todo List](https://danielfreitassc.github.io/TodoListReact/)
 ## [Lista de Telefônica](https://lista-telefonica-react-and-spring.vercel.app/)
-
