@@ -40,3 +40,4 @@ Certificações:
 ## [Todo List](https://danielfreitassc.github.io/TodoListReact/)
 ## [Lista de Telefônica](https://lista-telefonica-react-and-spring.vercel.app/)
 
+
