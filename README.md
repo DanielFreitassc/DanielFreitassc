@@ -41,4 +41,3 @@ Certificações:
 ## [Lista de Telefônica](https://lista-telefonica-react-and-spring.vercel.app/)
 
 
-![snake gif](https://github.com/DanielFreitassc/DanielFreitassc/blob/output/github-contribution-grid-snake.svg)
