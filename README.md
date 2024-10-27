@@ -55,8 +55,11 @@
  
 <h2 align="center"><h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2></h2>
 
+<div align="center">
+  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-26a8a8267/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dancode.java/?igsh=MWY5Z201MW04aDV0Nw%3D%3D)
+</div>
 
 <h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 
