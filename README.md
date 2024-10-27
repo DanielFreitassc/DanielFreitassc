@@ -4,16 +4,31 @@
   <img src="https://profile-counter.glitch.me/danielfreitassc/count.svg"/>
   </p>
   
-<h1>👨‍💻Olá meu nome é Daniel Freitas estudante de Engenharia de Computação👨‍💻</h1>
+<h2 align="center">👨‍💻Olá meu nome é Daniel Freitas estudante de Engenharia de Computação👨‍💻</h2>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-26a8a8267/)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfBto-R6bb9n-Q_0-CUoz8g)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dancode.java/?igsh=MWY5Z201MW04aDV0Nw%3D%3D)
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFreitassc&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=DanielFreitassc&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/dancode.java.png" alt="TryHackMe">](https://tryhackme.com/p/dancode.java)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=tokyonight)
+<h2 align="center">🛠️ Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs 🛠️</h2>
 
  <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
  <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
@@ -30,7 +45,14 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielFreitassc&radius=16&theme=gotham&area=true&order=5&color=8A2BE2"/>
+
+
  
+<h2 align="center"><h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2></h2>
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-26a8a8267/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dancode.java/?igsh=MWY5Z201MW04aDV0Nw%3D%3D)
+
 Certificações:
 
 [![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url) [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/094c1501-777e-407f-9578-4ec7dab4a79a) [![rocketbagde (2)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/aeb6dcb2-3371-46f9-9eac-7bdc3a2dfe62)
