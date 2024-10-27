@@ -12,8 +12,8 @@
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/dancode.java.png" alt="TryHackMe">](https://tryhackme.com/p/dancode.java)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFreitassc&theme=tokyonight)
 
  <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
  <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
