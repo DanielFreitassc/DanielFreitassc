@@ -4,7 +4,9 @@
   <img src="https://profile-counter.glitch.me/danielfreitassc/count.svg"/>
   </p>
   
-<h2 align="center">👨‍💻Olá meu nome é Daniel Freitas estudante de Engenharia de Computação👨‍💻</h2>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Daniel! 
+*Backend Developer*
+<br /> 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
