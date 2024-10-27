@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<h2 align="center">🛠️ Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs 🛠️</h2>
+<h2 align="center">🛠️ <strong>Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs</strong> 🛠️</h2>
 <div align="center">
   
  <img height="25"  height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
@@ -58,14 +58,14 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-freitas-26a8a8267/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dancode.java/?igsh=MWY5Z201MW04aDV0Nw%3D%3D)
 
-<h2 align="center">🎓 Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs 🎓</h2>
+<h2 align="center">🎓 <strong>Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</strong> 🎓</h2>
 
 
 <div align="center">
   
-[![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url) [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/094c1501-777e-407f-9578-4ec7dab4a79a) [![rocketbagde (2)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/aeb6dcb2-3371-46f9-9eac-7bdc3a2dfe62)
 [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/dcd5616b-a6cb-4411-92d0-ff82367d8dbc)
 [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/167113b7-ec5c-494c-b5ed-3591bb68a071)
+[![introduction-to-cybersecurity](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/47ed8d17-1ede-4944-9b9e-ae1f02b3f62e)](https://www.credly.com/badges/d873f9cc-8633-40c3-b962-a87e07f0123c/public_url) [![rocketbagde (1)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/094c1501-777e-407f-9578-4ec7dab4a79a) [![rocketbagde (2)](https://github.com/DanielFreitassc/DanielFreitassc/assets/129224303/e1350868-0c19-4e0b-a0b1-9c4f42413c75)](https://app.rocketseat.com.br/certificates/aeb6dcb2-3371-46f9-9eac-7bdc3a2dfe62)
 
 </div>
 
