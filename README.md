@@ -46,6 +46,7 @@
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins">
  <img height="40" src="https://assets.esecurityplanet.com/uploads/2022/01/zabbix-icon.png" title="Zabbix" alt="Zabbix">
  <img height="40" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" title="Kali" alt="Kali">
+ <img height="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/8ad5933e-96d6-11e6-91ef-00163ec9f5fa/386544326/wireshark-download.png" title="Wireshark" alt="Wireshark">
 
 </div>
  
