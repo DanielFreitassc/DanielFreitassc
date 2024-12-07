@@ -44,6 +44,7 @@
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"> 
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins">
+ <img height="40" src="https://assets.esecurityplanet.com/uploads/2022/01/zabbix-icon.png" title="Zabbix" alt="Zabbix">
 
 </div>
  
