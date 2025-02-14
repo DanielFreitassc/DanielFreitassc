@@ -46,7 +46,7 @@
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"> 
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins">
  <img height="40" src="https://assets.esecurityplanet.com/uploads/2022/01/zabbix-icon.png" title="Zabbix" alt="Zabbix">
- <img height="40" src="https://blog.kakaocdn.net/dn/KvdUM/btsDh8loGxn/K4a4bEAIsG5oXICzklgKU0/img.png" title="Kali" alt="Kali">
+ <img height="40" src="https://gitlab.com/uploads/-/system/project/avatar/25770760/kali-menu.png" title="Kali" alt="Kali">
  <img height="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/8ad5933e-96d6-11e6-91ef-00163ec9f5fa/386544326/wireshark-download.png" title="Wireshark" alt="Wireshark">
  <img height="40" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" title="Proxmox" alt="Proxmox">
 
