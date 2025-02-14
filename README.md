@@ -35,7 +35,8 @@
   
  <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
- <img height="40" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
+ <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" title="Springboot" alt="Springboot" /></code>
+ <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger - Open API" alt="Swagger - Open API" /></code>
  <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
  <img height="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="Nginx" alt="Nginx">
@@ -45,7 +46,7 @@
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"> 
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins">
  <img height="40" src="https://assets.esecurityplanet.com/uploads/2022/01/zabbix-icon.png" title="Zabbix" alt="Zabbix">
- <img height="40" src="" title="Kali" alt="Kali">
+ <img height="40" src="https://blog.kakaocdn.net/dn/KvdUM/btsDh8loGxn/K4a4bEAIsG5oXICzklgKU0/img.png" title="Kali" alt="Kali">
  <img height="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/8ad5933e-96d6-11e6-91ef-00163ec9f5fa/386544326/wireshark-download.png" title="Wireshark" alt="Wireshark">
  <img height="40" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" title="Proxmox" alt="Proxmox">
 
