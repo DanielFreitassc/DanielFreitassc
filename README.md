@@ -52,7 +52,7 @@
 
 </div>
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&background=FF52BC00&width=610&lines=Progamo,+bebo+café. Progamo,+bebo+café." alt="Typing SVG" /></a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programo,+bebo+café.;Programo+bebo+café.&color=8A2BE2&pause=1000)](https://git.io/typing-svg)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielFreitassc&radius=16&theme=gotham&area=true&order=5&color=8A2BE2"/>
 
