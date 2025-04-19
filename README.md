@@ -33,7 +33,7 @@
 <h2 align="center">🛠️ <strong>Sᴛᴀᴄᴋs Tᴇᴄʜɴᴏʟᴏɢɪᴇs</strong> 🛠️</h2>
 <div align="center">
   
- <img height="40" src="https://github.com/user-attachments/assets/151edb04-699d-441d-9acf-a87eab26c84d" title="Java" alt="Java" /></code>
+ <img height="47" src="https://github.com/user-attachments/assets/151edb04-699d-441d-9acf-a87eab26c84d" title="Java" alt="Java" /></code>
  <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
  <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" title="Springboot" alt="Springboot" /></code>
  <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger - Open API" alt="Swagger - Open API" /></code>
