@@ -27,6 +27,10 @@
         </a>
       </p>
     </td>
+    <td>
+      <h3><strong>Dᴀɪʟʏ Dᴇᴠ</strong></h3>
+      <a href="https://app.daily.dev/dancode7777"><img src="https://api.daily.dev/devcards/v2/A2Fn6GQlFixOcjje64QqD.png?type=default&r=ey5" width="356" alt="daniel freitas's Dev Card"/></a>
+    </td>
   </tr>
 </table>
 
