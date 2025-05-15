@@ -45,12 +45,9 @@
  <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
  <img height="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="Nginx" alt="Nginx">
- <img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
  <img height="40" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"> 
- <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins">
- <img height="40" src="https://assets.esecurityplanet.com/uploads/2022/01/zabbix-icon.png" title="Zabbix" alt="Zabbix">
  <img height="40" src="https://gitlab.com/uploads/-/system/project/avatar/25770760/kali-menu.png" title="Kali" alt="Kali">
  <img height="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/8ad5933e-96d6-11e6-91ef-00163ec9f5fa/386544326/wireshark-download.png" title="Wireshark" alt="Wireshark">
  <img height="40" src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" title="Proxmox" alt="Proxmox">
