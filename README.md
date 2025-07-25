@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
   <p align="center"> 
  VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/danielfreitassc/count.svg"/>
+  <img src="https://profile-counter.deno.dev/danielfreitassc/count.svg"/>
   </p>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Daniel! 
