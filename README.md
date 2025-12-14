@@ -21,7 +21,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/DanielFreitassc">
-          <img src="https://streak-stats.demolab.com?user=DanielFreitassc&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img src="s" alt="Streak Stats" />
         </a>
       </p>
     </td>
